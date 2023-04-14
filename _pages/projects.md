@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [other, coursework]
+display_categories: [other, coursework, kaggle]
 horizontal: false
 ---
 
