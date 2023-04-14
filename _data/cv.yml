@@ -1,97 +1,83 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
+    - name: Name
+      value: Mikhail Papkov
     - name: Date of Birth
-      value: 14th March 1879
+      value: 24th October 1995
+    - name: Current Residence
+      value: Tartu, Estonia
     - name: Languages
-      value: English, German
+      value: Russian (native), English (fluent), Estonian (intermediate), French, German (beginner)
 
-- title: Education
+- title: Higher Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      institution: University of Tartu, Estonia
+      year: 2019 - now
+      description: Health Image Analysis
+    - title: MSc
+      institution: University of Tartu, Estonia
+      year: 2017 - 2019
+      description: Computer Science, GPA 4.86/5.00
+    - title: BSc
+      institution: St. Petersburg State Polytechnic University, Russia
+      year: 2013 - 2017
+      description: Technical Physics (Medical Physics and Bioengineering), GPA 4.95/5.00
 
 - title: Experience
   type: time_table
   contents:
+    - title: Research Intern
+      institution: Google Health
+      year: Aug 2022 - Nov 2022
+      description: Improving neural network models for organ contouring in 3D computer tomography images for radiotherapy treatment planning.
+    
+    - title: Junior Research Fellow
+      institution: University of Tartu
+      year: Oct 2017 - now
+      description: Working at the Biomedical Computer Vision Group on industrial collaboration projects in Microscopy Image Analysis (denoising, deconvolution, cell phenotyping, object detection, protein subcellular localization, etc.)
+
     - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+      institution: MICARD-LANA JSC
+      year: Sep 2015 - Aug 2017
+      description: Developed algorithms of automated electrocardiogram interpretation for children under three years old with a rapid heartbeat for the Cardiometer-MT system.
+
+- title: Teaching
+  type: time_table
+  contents: 
+    - title: Teaching assistant, University of Tartu
+      year: 2018 - 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Machine Learning MTAT.03.227 (Fall 2018/19, Fall 2019/20)
+        - title: Special Course in Machine Learning MTAT.03.317  
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Deep Generative Models (Spring 2019/2020)
+            - Competitive Data Science (Fall 2020/2021)
+    - title: Lecturer, Cleveron Academy
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Machine vision and signal processing RT-034
+        - Machine Learning RT-035
+        - Artificial Neural Networks RT-033
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Grants and Scholarships
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: PerkinElmer Industrial PhD
+      year: 2019 - 2023
+      description: The main objective of the project is to create state-of-the-art computational models that are able to improve the quality of microscopy images.
+    - title: Dora Plus grant
+      year: 2017 - 2019
+      description: Scholarship for international Masters students studying in Estonia.
+    - title: Presidential Scholarship
+      year: 2014 - 2017
+      description: Scholarship for outstanding students studying on the higher education program who received only A-grades for the previous two semesters.
+    
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Running, cycling, swimming (and other endurance sports)
+    - Quizzing (for fun and competitively for >10 years; coaching university teams)
