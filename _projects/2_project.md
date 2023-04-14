@@ -2,7 +2,7 @@
 layout: page
 title: Recursion Cellular Image Classification
 description: Disentangling biological signal from experimental noise in cellular images  
-img: assets/recursion.png
+img: assets/img/recursion.png
 importance: 1
 category: kaggle
 ---
