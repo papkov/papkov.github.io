@@ -3,9 +3,9 @@
   contents:
     - name: Name
       value: Mikhail Papkov
-    - name: Date of Birth
+    - name: Birthday
       value: 24th October 1995
-    - name: Current Residence
+    - name: Residence
       value: Tartu, Estonia
     - name: Languages
       value: Russian (native), English (fluent), Estonian (intermediate), French, German (beginner)
@@ -32,7 +32,7 @@
     - title: Research Intern
       institution: Google Health
       year: Aug 2022 - Nov 2022
-      description: Improving neural network models for organ contouring in 3D computer tomography images for radiotherapy treatment planning.
+      description: Improved neural network models for organ contouring in 3D computer tomography images for radiotherapy treatment planning.
     
     - title: Junior Research Fellow
       institution: University of Tartu
@@ -42,7 +42,7 @@
     - title: C++ Developer
       institution: MICARD-LANA JSC
       year: Sep 2015 - Aug 2017
-      description: Developed algorithms of automated electrocardiogram interpretation for children under three years old with a rapid heartbeat for the Cardiometer-MT system.
+      description: Developed and put in production automated pediatric electrocardiogram interpretation algorithms for the Cardiometer-MT system.
 
 - title: Teaching
   type: time_table
@@ -67,7 +67,7 @@
   contents:
     - title: PerkinElmer Industrial PhD
       year: 2019 - 2023
-      description: The main objective of the project is to create state-of-the-art computational models that are able to improve the quality of microscopy images.
+      description: Creating state-of-the-art computational models to improve the quality of microscopy images.
     - title: Dora Plus grant
       year: 2017 - 2019
       description: Scholarship for international Masters students studying in Estonia.
